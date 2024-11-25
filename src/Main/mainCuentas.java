@@ -117,6 +117,8 @@ public class mainCuentas {
 	
 				} catch(Exception e) {
 					System.out.println("Error al realizar el retiro");
+					System.out.println("Tonto");
+
 				}
 
 				break;
